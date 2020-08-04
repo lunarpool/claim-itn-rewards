@@ -1,8 +1,10 @@
 # How to claim your Cardano ITN rewards in Daedalus wallet
 
-:bulb: **USE Daedalus Mainnet 2.0.0 or higher than 2.0.1**
+:exclamation: **USE Daedalus Mainnet 2.0.0 or higher than 2.0.1**
 
 Daedalus is a Cardano native full-node wallet available to download at [https://daedaluswallet.io/en/download/](https://daedaluswallet.io/en/download/). Please note that version 2.0.1 has a bug preventing users from claiming their ITN rewards so make sure to use version 2.0.0 or higher than 2.0.1..
+
+:bulb: **If your wallet contains rewards only check step 5
 
 **Daedalus Mainnet 2.0.0 direct download links - just for testing purposes**
 
@@ -54,7 +56,7 @@ You should be able to see your wallet total balance which consist of both the am
 ## 5. Sending funds to different wallet
 As you know only Daedalus and Yoroi wallets were part of the November 2019 snapshot and therefore could participate in ITN, stake their ADA and get rewards. This means that there were a lot of people commonly holding their ADA in different wallets (e.g. AdaLite - with Ledger or Trezor) and moving them to Daedalus and Yoroi just for the snapshot and then back to their original wallet.
 
-This could lead to a situation that the wallet balance consist only of rewards and no additional ADA holding. In this case you would not be able to send the rewards out of the wallet, because you want be able to pay for the transaction fee. To resolve that you have to send at least 1 ADA to your restored wallet and then send out whole wallet balance including the rewards to any other wallet.
+This could lead to a situation that the wallet balance consist only of rewards and no additional ADA holding. In this case you would not be able to send the rewards out of the wallet, because you want be able to pay for the transaction fee. To resolve that you have to send at least 1 ADA to your restored wallet and then send out whole wallet balance including the rewards to any other wallet.-
 
-Following image shows a reward wallet that originally had 1.096,738712 ADA rewards from ITN. To send the rewards to different wallet we sent in 1 ADA and then whole balance to our paper wallet. This way you can pay the transaction fee for real ADA not rewards.
+Following image shows a reward wallet that originally had ```1.096,738712 ADA``` rewards from ITN. To send the rewards to different wallet we sent in ```1 ADA``` and then whole balance to our paper wallet. This way you can pay the transaction fee for real ADA not rewards.
 ![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/07_Withdraw.png)
