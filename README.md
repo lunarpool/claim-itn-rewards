@@ -22,6 +22,16 @@ Download Daedalus wallet using the links at the top of the page or make sure you
 
 Once installed, start Daedalus and keep it running until the initial synchronization is done. **This can take time** as this is a full-node wallet having whole Cardano chain download locally on your computer. Chain storage will consume aroung **5 GB** of your hard-drive space.
 
-## 2. Restore
+## 2. Restore your wallet
+
+### 2.1. Click Restore button
 When the wallet is fully synchronized you will have couple of button available, click **Restore**
 ![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/01_Restore_Wallet.png)
+
+### 2.2. Select Yoroi Incentivized Testnet wallet
+If you have your 15 words seed select the option combination according to the image below and click **Continue**. Even if you didn't use Yoroi feel free to use this option as well.
+![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/02_Yoroi_ITN.png)
+
+### 2.3. Type in your Recovery Phrase
+Find your 15 word Recovery Phrase (also known as Seed) and type the words in correct order into the box. Daedalus will automatically recognize the words and put them into cyan boxes. Click **Check recovery phrase** when finished.
+![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/03_Recovery_phrase.png)
