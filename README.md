@@ -1,6 +1,6 @@
 # How to claim your Cardano ITN rewards in Daedalus wallet
 
-:exclamation: :exclamation: **USE Daedalus Mainnet 2.0.0 or newer than 2.0.1** (expected 4th Aug 2020)
+:exclamation::exclamation: **USE Daedalus Mainnet 2.0.0 or newer than 2.0.1** (expected 4th Aug 2020)
 
 Daedalus is a Cardano native full-node wallet available to download at [https://daedaluswallet.io/en/download/](https://daedaluswallet.io/en/download/). Please note that version 2.0.1 has a bug preventing users from claiming their ITN rewards so make sure to use version 2.0.0 or higher than 2.0.1..
 
