@@ -24,4 +24,4 @@ Once installed, start Daedalus and keep it running until the initial synchroniza
 
 ## 2. Restore
 When the wallet is fully synchronized you will have couple of button available, click **Restore**
-
+![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/01_Restore_Wallet.png)
