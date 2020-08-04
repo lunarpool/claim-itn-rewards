@@ -43,3 +43,18 @@ Enter your wallet name, try to use a unique one so it can be easily identified a
 ### 2.5. Wallet restored
 If all the above steps were successfull you should see following confirmation dialog. Click **Close** button.
 ![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/05_Restored.png)
+
+## 3. Synchronize transaction history
+Daedalus will automatically start transaction history synchronization right after wallet recovery, you can check the progress in the wallet header. This could take a few minutes.
+![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/06_Sync_wait.png)
+
+## 4. Finished - wallet balance
+You should be able to see your wallet total balance which consist of both the amount of ADA you had in your wallet and the rewards you received during the ITN (Incentivized Testnet).
+
+## 5. Sending funds to different wallet
+As you know only Daedalus and Yoroi wallets were part of the November 2019 snapshot and therefore could participate in ITN, stake their ADA and get rewards. This means that there were a lot of people commonly holding their ADA in different wallets (e.g. AdaLite - with Ledger or Trezor) and moving them to Daedalus and Yoroi just for the snapshot and then back to their original wallet.
+
+This could lead to a situation that the wallet balance consist only of rewards and no additional ADA holding. In this case you would not be able to send the rewards out of the wallet, because you want be able to pay for the transaction fee. To resolve that you have to send at least 1 ADA to your restored wallet and then send out whole wallet balance including the rewards to any other wallet.
+
+Following image shows a reward wallet that originally had 1.096,738712 ADA rewards from ITN. To send the rewards to different wallet we sent in 1 ADA and then whole balance to our paper wallet. This way you can pay the transaction fee for real ADA not rewards.
+![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/07_Withdraw.png)
