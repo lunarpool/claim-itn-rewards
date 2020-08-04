@@ -10,7 +10,7 @@ If you need to transfer your rewards into any different wallet and have no other
 
 **Daedalus Mainnet 2.0.0 direct download links - just for testing purposes**
 
-Please note that Daedalus will force you to download latest version of the wallet after each run so the links below are just for a purpose we figure out how to run it without this update check.
+Please note that Daedalus will force you to download latest version of the wallet after each run so the links below are just for a purpose we figure out how to run it without this update check. Current version **2.0.1 is not supporting ITN reward wallets.**
 
 * MacOS - [https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.pkg](https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.pkg)
 * Windows - [https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.exe](https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.exe)
