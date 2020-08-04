@@ -5,14 +5,14 @@
 Daedalus is a Cardano native full-node wallet available to download at [https://daedaluswallet.io/en/download/](https://daedaluswallet.io/en/download/). Please note that version 2.0.1 has a bug preventing users from claiming their ITN rewards so make sure to use version 2.0.0 or higher than 2.0.1..
 
 
-:bulb: **If your wallet contains rewards only check [step 5](#5-sending-funds-to-different-wallet)**
+### :bulb: **If your wallet contains rewards only check [step 5](#5-sending-funds-to-different-wallet)**
 
 If you need to transfer your rewards into any different wallet and have no other funds there (rewards only) you will not be able to pay fees for the transaction as rewards can not be used for that.
 
 
 ### **Daedalus Mainnet 2.0.0 direct download links - just for testing purposes**
 
-Please note that Daedalus will force you to download latest version of the wallet after each run so the links below are just for a purpose we figure out how to run it without this update check. Current version **2.0.1 is not supporting ITN reward wallets.**
+> :bulb: Please note that Daedalus will force you to download latest version of the wallet after each run so the links below are just for a purpose we figure out how to run it without this update check. Current version **2.0.1 is not supporting ITN reward wallets.**
 
 * MacOS - [https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.pkg](https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.pkg)
 * Windows - [https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.exe](https://update-cardano-mainnet.iohk.io/daedalus-2.0.0-mainnet-13980.exe)
