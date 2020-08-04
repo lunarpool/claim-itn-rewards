@@ -41,6 +41,9 @@ If you have your 15 words seed select the option combination according to the im
 
 ### 2.3. Type in your Recovery Phrase
 Find your 15 word Recovery Phrase (also known as Seed) and type the words in correct order into the box. Daedalus will automatically recognize the words and put them into cyan boxes. Click **Check recovery phrase** when finished.
+
+> :bulb: The example visible below is an empty wallet, rewards have already been sent to pledge MOON1 stakepool. Make sure you never compromise your seed, never share it, never bring it online!
+
 ![image](https://github.com/lunarpool/claim-itn-rewards/blob/master/files/03_Recovery_phrase.png)
 
 ### 2.4. Wallet name and spending password
